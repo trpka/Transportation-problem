@@ -6,10 +6,21 @@ Students: <br>
 Aleksandra Borisavljević IN17/2018 -Student 1 <br>
 Anastasija Popović IN46/2018 -Student 2 <br>
 <br>
-## Decription:
-#### North West Corner Rule of Transportation Problem, The Least Cost Method, Vogel's Approximation Method 
-#### Files:
-- **ОИ_Извештај**: report of analisys
-- **projekat_gui.py**: python code
-#### Technology:
-- Python
+
+<ul>
+  <li>North West Corner Rule of Transportation Problem</li>
+  <li>The Least Cost Method</li>
+  <li>Vogel's Approximation Method </li>
+</ul>
+
+<h2>Files:</h2>
+<ul>
+  <li>ОИ_Извештај.pdf : report of analisys</li>
+  <li>projekat_gui.py: python code</li>
+</ul>
+
+<h2>Technologies:</h2>
+<ul>
+  <li>Python</li>
+</ul>
+
